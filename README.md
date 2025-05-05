@@ -7,3 +7,4 @@ Dataset stores sales information worldwide of a company called <b>Superstore</b>
 &nbsp; - Returns: returned transactions <br>
 
 <h2>2. Data Dictionary </h2> 
+<img> ![data](https://github.com/user-attachments/assets/73838b2c-4496-4386-acbf-11915678457c)
