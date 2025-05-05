@@ -35,3 +35,4 @@ Dataset stores sales information worldwide of a company called <b>Superstore</b>
 <img width="1807" alt="Screenshot 2025-05-05 at 13 21 02" src="https://github.com/user-attachments/assets/090fc931-ab95-4173-b81f-e7656926dd2a" /><br>
 <h2>3. Person and ship </h2>
 <img width="1801" alt="Screenshot 2025-05-05 at 13 21 14" src="https://github.com/user-attachments/assets/ed09f462-bc86-41b8-ab36-af1459e7232d" /><br>
+<h1>IV. Insights</h1>
