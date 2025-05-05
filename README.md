@@ -7,4 +7,9 @@ Dataset stores sales information worldwide of a company called <b>Superstore</b>
 &nbsp; - Returns: returned transactions <br>
 
 <h2>2. Data Dictionary </h2> 
-<img> ![data](https://github.com/user-attachments/assets/73838b2c-4496-4386-acbf-11915678457c)
+
+![Screenshot 2025-05-05 at 10 09 22](https://github.com/user-attachments/assets/e4c9474f-1c34-4264-af36-dcdbf2351208)
+
+<h2>3. Business Questions </h2>
+&nbsp; + Presenting business situation in international markets to Senior Manager. <br>
+&nbsp; + Highlight important indicatprs for Senior Manager to decide in which markets to develop and which products are suitable for each international market. <br>
