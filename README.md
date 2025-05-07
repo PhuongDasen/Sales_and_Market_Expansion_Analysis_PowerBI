@@ -35,4 +35,15 @@ Dataset stores sales information worldwide of a company called <b>Superstore</b>
 <img width="1807" alt="Screenshot 2025-05-05 at 13 21 02" src="https://github.com/user-attachments/assets/090fc931-ab95-4173-b81f-e7656926dd2a" /><br>
 <h2>3. Person and ship </h2>
 <img width="1801" alt="Screenshot 2025-05-05 at 13 21 14" src="https://github.com/user-attachments/assets/ed09f462-bc86-41b8-ab36-af1459e7232d" /><br>
-<h1>IV. Insights</h1>
+<h1>IV. Insights and strategic recommendations</h1>
+<b>1. Company Sales Situation Over the Years</b><br>
+- YoY Growth: 52% increase in profit<br>
+- Profit trend is strongly upward, especially from Q3 2013 to Q4 2014.<br>
+<b>2. Regional Sales Situation</b><br>
+- Top Performing Region: Central - clearly leading in profit<br>
+- Other Strong Regions: North America (North, US) and EU<br>
+- Top Seller: Anna Andreadi - 37% of total sales.<br>
+<b>3. Best/Worst-Selling Product Categories</b><br>
++ Top Category by Quantity: Office Supplies - 108,182 units sold.<br>
++ Top Subcategories: Binders
+
