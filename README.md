@@ -45,5 +45,17 @@ Dataset stores sales information worldwide of a company called <b>Superstore</b>
 - Top Seller: Anna Andreadi - 37% of total sales.<br>
 <b>3. Best/Worst-Selling Product Categories</b><br>
 + Top Category by Quantity: Office Supplies - 108,182 units sold.<br>
-+ Top Subcategories: Binders
++ Top Subcategories: Binders (21,429 units -> Successful: 20,007 units), Storage (16,917 units), Art (16,301 units) <br>
+- Worst Performing Sub-Category (based on return). Binders )1,422 units returned) <br>
+<b>4. Conclusion</b><br>
+- According to profit: <br>
+  + Technolodgy is the most profitable category.<br>
+  + Consumer is the most profitable segment. -> APAC is the market where we have the highest profit - 0.44M and Central EU is the Market region with the highest profit.<br>
+- According to Return of Sales (ROS)<br>
+  + Technology and Office supplies bring the highest ROS <br>
+  + As for Segment, it's the same about ROS<br>
+  + Canada is the market that brings the highest ROS<br>
+
+  
+
 
