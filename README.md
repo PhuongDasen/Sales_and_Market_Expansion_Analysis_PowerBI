@@ -36,7 +36,7 @@ Dataset stores sales information worldwide of a company called <b>Superstore</b>
 <h2>3. Person and ship </h2>
 <img width="1801" alt="Screenshot 2025-05-05 at 13 21 14" src="https://github.com/user-attachments/assets/ed09f462-bc86-41b8-ab36-af1459e7232d" /><br>
 <h1>IV. Insights and strategic recommendations</h1>
-&nbsp; INSIGHTS <br>
+<h3>INSIGHTS </h3>
 <b>1. Company Sales Situation Over the Years</b><br>
 - YoY Growth: 52% increase in profit<br>
 - Profit trend is strongly upward, especially from Q3 2013 to Q4 2014.<br>
@@ -56,7 +56,7 @@ Dataset stores sales information worldwide of a company called <b>Superstore</b>
   + Technology and Office supplies bring the highest ROS <br>
   + As for Segment, it's the same about ROS<br>
   + Canada is the market that brings the highest ROS<br>
-  &nbsp;<b> RECOMMENDATIONS </b><br>
+  <h3>RECOMMENDATIONS </h3>
 <b>Expansion Suggestions:</b><br>
 - Focus expansion in Central and North regions due to high profit volumes.<br>
 - APAC and Canada are highly profitable markets - worth reinforcing or expanding further.<br>
