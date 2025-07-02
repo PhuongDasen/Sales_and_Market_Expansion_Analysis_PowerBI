@@ -5,15 +5,14 @@
 Author: Phuong Dasen<br>
 Tool: PowerBI<br>
 
-## 📑 Table of Contents
-
-- [📌 Background & Overview](#background--overview)  
-- [📁 Dataset Description & Data Structure](#dataset-description--data-structure)  
-- [🧠 Design Thinking Process](#design-thinking-process)  
-- [📊 Key Insights & Visualizations](#key-insights--visualizations)  
-- [🔍 Final Conclusion & Recommendations](#final-conclusion--recommendations)  
----
-## [📌 Background & Overview](#background--overview) 
+## 📌 Table of Contents
+- [📌 Background & Overview](#-background--overview)
+- [📁 Dataset Description & Data Structure](#-dataset-description--data-structure)
+- [🧠 Design Thinking Process](#-design-thinking-process)
+- [📊 Key Insights & Visualizations](#-key-insights--visualizations)
+- [🔍 Final Conclusion & Recommendations](#-final-conclusion--recommendations) 
+  
+## 📌 Background & Overview
 
 ## 📌 What is this project about?<br>
 - Analyzes company-wide sales data to assess performance across products, regions, and customer segments.<br>
