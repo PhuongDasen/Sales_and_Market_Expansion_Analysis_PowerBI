@@ -13,16 +13,18 @@ Tool: PowerBI<br>
 - [📊 Key Insights & Visualizations](#key-insights--visualizations)  
 - [🔍 Final Conclusion & Recommendations](#final-conclusion--recommendations)  
 ---
-## [📌 Background & Overview](#background--overview)  
+## [📌 Background & Overview](#background--overview) 
 
-### Objective:
-### 📖 What is this project about?
+## 📌 What is this project about?<br>
+- Analyzes company-wide sales data to assess performance across products, regions, and customer segments.<br>
+- Deliver actionable insights through a Power BI dashboard for strategic decision-making and market expansion.<br>
 
-### 👤 Who is this project for?
+## 👤 Who is this project for?<br>
+- Senior management, including sales and regional directors.<br>  
 
-### ❓ Business questions
-
-
+## ❓ Business questions<br>
+- Which regions, categories, and products generate the most sales and profit? <br>
+- Where are the gaps or opportunities for improving performance or expanding into new markets?<br>
 
 ### 📌 Datenquellen:   
 - Quelle: 
