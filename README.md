@@ -1,31 +1,28 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3552fdb1-671e-4b7c-8b2d-9b2e15e3889c" width="90%">
 </p>
-<h1> 📊 Energie-Dashboard</h1>
-Data Hackdays | Kanton Bern | 05.2025<br>
+<h1> 📊 Sales and Market Expansion Analysis by PowerBI</h1>
+Author: Phuong Dasen<br>
 Tool: PowerBI<br>
 
-## 📑 Inhaltsverzeichnis
+## 📑 Table of Contents
 
-- [📌 Hintergrund & Überblick](#hintergrund--überblick)  
-- [📁 Datensatzbeschreibung & Datenstruktur](#datensatzbeschreibung--datenstruktur)  
-- [🧠 Design-Thinking-Prozess](#design-thinking-prozess)  
-- [📊 Zentrale Erkenntnisse & Visualisierungen](#zentrale-erkenntnisse--visualisierungen)  
-- [🔍 Abschließende Schlussfolgerung & Empfehlungen](#abschließende-schlussfolgerung--empfehlungen)  
-
+- [📌 Background & Overview](#background--overview)  
+- [📁 Dataset Description & Data Structure](#dataset-description--data-structure)  
+- [🧠 Design Thinking Process](#design-thinking-process)  
+- [📊 Key Insights & Visualizations](#key-insights--visualizations)  
+- [🔍 Final Conclusion & Recommendations](#final-conclusion--recommendations)  
 ---
-## 📌 Hintergrund und Überblick 
+## [📌 Background & Overview](#background--overview)  
 
-### Ziel:
-### 📖 Was ist dieses Projekt?
+### Objective:
+### 📖 What is this project about?
 
-### 👤 Für wen ist dieses Projekt?
+### 👤 Who is this project for?
 
-### ❓ Geschäftsfrage von dem Projekt?
+### ❓ Business questions
 
-### 🎯 Projektergebnis: 
 
-[📊 Datenstruktur und Datenbeziehungen](#datenstruktur-und-datenbeziehungen)
 
 ### 📌 Datenquellen:   
 - Quelle: 
