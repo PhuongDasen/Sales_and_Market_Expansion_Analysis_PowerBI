@@ -37,32 +37,27 @@ Tool: PowerBI<br>
 ## 📊 Data Structure & Relationships<br>
 ## 1️⃣ Tables Used:
 The dataset consists of three tables:
+<details>
+<summary>🔽 Table 1: Orders - Contains detailed transaction and customer information</summary>
+<img width="2800" alt="Screenshot 2025-07-02 at 8 37 03 PM" src="https://github.com/user-attachments/assets/c020dce8-b8da-4125-87ab-4edeb0f111a9" />
+<br>
+</details>
+<details>
+<summary>🔽 Table 2: Returns – Stores data on returned orders</summary>
+<img width="1500" alt="Screenshot 2025-07-02 at 8 38 03 PM" src="https://github.com/user-attachments/assets/3fc1168d-6c3a-4249-b3b6-223d735fb081" />
+<br>
+</details>
+
+<details>
+<summary>🔽 Table 3: People – Holds information about sales representatives</summary>
+<img width="1500" alt="Screenshot 2025-07-02 at 8 38 28 PM" src="https://github.com/user-attachments/assets/1a60b3da-e5f5-4083-bf3d-eca8ed202f13" />
+<br>
+</details>
+
 📊 Table 1: Orders - Contains detailed transaction and customer information
 📦 Table 2: Returns – Stores data on returned orders
 🧑‍💼 Table 3: People – Holds information about sales representatives
 2️⃣ Data Relationships:
-
-
-#### 1️⃣ Verwendete Tabellen:
-Es gibt ..... Tabellen im Datensatz.
-#### 2️⃣ Tabellenschema & Datenübersicht
-<details>
-  <summary>🔽 Tabelle 1: </summary>
-  <br>
-  <img " width="400"/>
-</details>
-<details>
-  <summary>🔽 Tabelle 2: </summary>
-  <br>
-  <img  width="500"/>
-</details>
-<details>
-  <summary>🔽 Tabelle 3: </summary>
-  <br>
-  <img  width="1000"/>
-</details>
-
-#### 3️⃣ Datenbeziehungen:  
 <img src= width="800" /><br>
 ---
 
