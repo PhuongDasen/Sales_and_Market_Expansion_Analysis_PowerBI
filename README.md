@@ -26,12 +26,23 @@ Tool: PowerBI<br>
 - Which regions, categories, and products generate the most sales and profit? <br>
 - Where are the gaps or opportunities for improving performance or expanding into new markets?<br>
 
-### 📌 Datenquellen:   
-- Quelle: 
-- Grösse: 
-- Format: 
-  
-### 📁 Datensatzbeschreibung & Datenstruktur
+### [📁 Dataset Description & Data Structure](#dataset-description--data-structure)
+## 📌 Data Source<br>
+## Source: Kaggle<br>
+## Size:<br>
+- The Orders table contains 51,290 records<br>
+- The People table contains 13 records<br>
+- The Returns table contains 1,172 records<br>
+- Format: .csv<br>
+## 📊 Data Structure & Relationships<br>
+## 1️⃣ Tables Used:
+The dataset consists of three tables:
+
+📊 Table 1: Orders - Contains detailed transaction and customer information
+📦 Table 2: Returns – Stores data on returned orders
+🧑‍💼 Table 3: People – Holds information about sales representatives
+2️⃣ Data Relationships:
+
 
 #### 1️⃣ Verwendete Tabellen:
 Es gibt ..... Tabellen im Datensatz.
