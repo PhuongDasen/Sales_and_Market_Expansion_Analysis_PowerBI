@@ -54,13 +54,9 @@ The dataset consists of three tables:
 <br>
 </details>
 
-📊 Table 1: Orders - Contains detailed transaction and customer information
-📦 Table 2: Returns – Stores data on returned orders
-🧑‍💼 Table 3: People – Holds information about sales representatives
 2️⃣ Data Relationships:
-<img src= width="800" /><br>
+<img width="1800" alt="Screenshot 2025-07-02 at 8 49 25 PM" src="https://github.com/user-attachments/assets/58e02e22-a7ed-48d4-86a9-162d1bc386ca" /><br>
 ---
-
 ## 🧠  Brainstorming
 <p><strong></strong></p>
 <img width="1000" src=/>
