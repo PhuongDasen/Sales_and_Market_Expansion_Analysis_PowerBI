@@ -14,7 +14,7 @@ Tool: PowerBI<br>
   
 ## 📌 Background & Overview
 
-## 📌 What is this project about?<br>
+## 🔍 What is this project about?<br>
 - Analyzes company-wide sales data to assess performance across products, regions, and customer segments.<br>
 - Deliver actionable insights through a Power BI dashboard for strategic decision-making and market expansion.<br>
 
