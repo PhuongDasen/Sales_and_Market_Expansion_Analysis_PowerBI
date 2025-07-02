@@ -55,16 +55,20 @@ The dataset consists of three tables:
 </details>
 
 2️⃣ Data Relationships:
-<img width="1800" alt="Screenshot 2025-07-02 at 8 49 25 PM" src="https://github.com/user-attachments/assets/58e02e22-a7ed-48d4-86a9-162d1bc386ca" /><br>
+<img width="1500" alt="Screenshot 2025-07-02 at 8 49 25 PM" src="https://github.com/user-attachments/assets/58e02e22-a7ed-48d4-86a9-162d1bc386ca" /><br>
 ---
-## 🧠  Brainstorming
-<p><strong></strong></p>
-<img width="1000" src=/>
-<p><strong></strong></p>
-<img width="1000" " />
-<p><strong></strong></p>
-<img width="1000"  />
- <br>
+## [🧠 Design Thinking Process](#design-thinking-process)
+<b>1️⃣ Step 1 - Empathize </b><br>
+
+<img width="1000" alt="Screenshot 2025-05-05 at 13 03 14" src="https://github.com/user-attachments/assets/99136c62-2ea9-41ec-97e8-287d2b1cbafb" /><br>
+
+<b>2️⃣ Step 2 - Define Point of view </b><br>
+<img width="1000" alt="Screenshot 2025-05-05 at 13 04 50" src="https://github.com/user-attachments/assets/16d38903-b9f1-4aa9-be32-26a3f364d93b" /><br>
+<img width="1000" alt="Screenshot 2025-05-05 at 13 05 01" src="https://github.com/user-attachments/assets/52b600ee-0673-4a9f-b40f-dab14569248a" /><br>
+
+<b>3️⃣ Step 3 - Ideate </b><br>
+<img width="1000" alt="Screenshot 2025-05-05 at 13 14 52" src="https://github.com/user-attachments/assets/0791bd41-c793-48e1-85bf-294b56aaea19" /><br>
+<img width="1000" alt="Screenshot 2025-05-05 at 13 12 49" src="https://github.com/user-attachments/assets/16b99573-0804-4684-9848-39da613a4d14" /><br>
 
 ## ⚒️ Hauptprozess der Datenanalyse <br> 
 1️⃣  <br> 
@@ -149,17 +153,7 @@ Dataset stores sales information worldwide of a company called <b>Superstore</b>
 &nbsp; + Presenting business situation in international markets to Senior Manager. <br>
 &nbsp; + Highlight important indicatprs for Senior Manager to decide in which markets to develop and which products are suitable for each international market.<br>
 <h1>II. Design Thinking Method </h1>
-<b> Here are the five steps of design thinking: </b><br>
-<b>&#42 Step 1 - Empathize </b><br>
-<img width="841" alt="Screenshot 2025-05-05 at 13 03 14" src="https://github.com/user-attachments/assets/99136c62-2ea9-41ec-97e8-287d2b1cbafb" /><br>
-<b>&#42 Step 2 - Define Point of view </b><br>
-<img width="616" alt="Screenshot 2025-05-05 at 13 04 50" src="https://github.com/user-attachments/assets/16d38903-b9f1-4aa9-be32-26a3f364d93b" /><br>
-<img width="712" alt="Screenshot 2025-05-05 at 13 05 01" src="https://github.com/user-attachments/assets/52b600ee-0673-4a9f-b40f-dab14569248a" /><br>
-<b>&#42 Step 3 - Ideate </b><br>
-<img width="852" alt="Screenshot 2025-05-05 at 13 14 52" src="https://github.com/user-attachments/assets/0791bd41-c793-48e1-85bf-294b56aaea19" /><br>
-<img width="962" alt="Screenshot 2025-05-05 at 13 12 49" src="https://github.com/user-attachments/assets/16b99573-0804-4684-9848-39da613a4d14" /><br>
-<b>&#42 Step 4 - Prototype </b><br>
-<img width="828" alt="Screenshot 2025-05-05 at 13 18 14" src="https://github.com/user-attachments/assets/9d222fee-7a19-4637-8a7a-fc4c7a2cc00c" /><br>
+
 <b>&#42 Step 5 - Review </b><br>
 <img width="827" alt="Screenshot 2025-05-05 at 13 18 23" src="https://github.com/user-attachments/assets/6463556d-6dec-4e3a-a720-4276986d9b0d" /><br>
 <h1>III. Visualization</h1>
