@@ -12,7 +12,7 @@ Tool: PowerBI<br>
 - [📊 Key Insights & Visualizations](#-key-insights--visualizations)
 - [🔍 Final Conclusion & Recommendations](#-final-conclusion--recommendations) 
   
-## 📌 Background & Overview
+## [📌 Background & Overview](#-background--overview)
 
 ## 🔍 What is this project about?<br>
 - Analyzes company-wide sales data to assess performance across products, regions, and customer segments.<br>
@@ -25,7 +25,7 @@ Tool: PowerBI<br>
 - Which regions, categories, and products generate the most sales and profit? <br>
 - Where are the gaps or opportunities for improving performance or expanding into new markets?<br>
 
-## [📁 Dataset Description & Data Structure](#dataset-description--data-structure)
+## [📁 Dataset Description & Data Structure](#-dataset-description--data-structure)
 ## 📌 Data Source
 * Source : Kaggle<br>
 * Size:<br>
@@ -79,7 +79,7 @@ The dataset consists of three tables:
 <img width="1000" alt="Screenshot 2025-05-05 at 13 14 52" src="https://github.com/user-attachments/assets/0791bd41-c793-48e1-85bf-294b56aaea19" /><br>
 <img width="1000" alt="Screenshot 2025-05-05 at 13 12 49" src="https://github.com/user-attachments/assets/16b99573-0804-4684-9848-39da613a4d14" /><br>
 
-## [📊 Key Insights & Visualizations](#key-insights--visualizations)
+## [📊 Key Insights & Visualizations](#-key-insights--visualizations)
 
 <h2>1. Profit Analysis </h2>
 <img width="1804" alt="Screenshot 2025-05-05 at 13 22 42" src="https://github.com/user-attachments/assets/cc3c214d-02ae-47bb-ac66-3535be5fa4e7" /><br>
@@ -87,7 +87,8 @@ The dataset consists of three tables:
 <img width="1807" alt="Screenshot 2025-05-05 at 13 21 02" src="https://github.com/user-attachments/assets/090fc931-ab95-4173-b81f-e7656926dd2a" /><br>
 <h2>3. Person and ship </h2>
 <img width="1801" alt="Screenshot 2025-05-05 at 13 21 14" src="https://github.com/user-attachments/assets/ed09f462-bc86-41b8-ab36-af1459e7232d" /><br>
-<h1>IV. Insights and strategic recommendations</h1>
+
+## [🔍 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
 <h3>💡 Insights </h3>
 <b>1. Company Sales Situation Over the Years</b><br>
 - YoY Growth: 52% increase in profit<br>
