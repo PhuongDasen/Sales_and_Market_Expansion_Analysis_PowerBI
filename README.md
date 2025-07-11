@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3552fdb1-671e-4b7c-8b2d-9b2e15e3889c" width="90%">
 </p>
-<h1> 📊 Sales Performance & Market Expansion for a global Superstore with PowerBI/h1><br>
+<h1> 📊 Sales Performance & Market Expansion for a global Superstore with PowerBI</h1><br>
 Author: Phuong Dasen<br>
 Tool: PowerBI<br>
 
@@ -10,7 +10,7 @@ Tool: PowerBI<br>
 - [📁 Dataset Description & Data Structure](#-dataset-description--data-structure)
 - [🧠 Design Thinking Process](#-design-thinking-process)
 - [📊 Key Insights & Visualizations](#-key-insights--visualizations)
-- [🔍 Final Conclusion & Recommendations](#-final-conclusion--recommendations) 
+- [🔍 Recommendations](#-recommendations) 
   
 ## [📌 Background & Overview](#-background--overview)
 
@@ -61,9 +61,6 @@ The dataset consists of three tables:
 <br>
 </details>
 
-
-
-
 ## 2️⃣ Data Relationships:
 <img width="1500" alt="Screenshot 2025-07-02 at 8 49 25 PM" src="https://github.com/user-attachments/assets/58e02e22-a7ed-48d4-86a9-162d1bc386ca" /><br>
 ---
@@ -82,43 +79,43 @@ The dataset consists of three tables:
 
 ## [📊 Key Insights & Visualizations](#-key-insights--visualizations)
 
-<h2>1. Profit Analysis </h2>
-<img width="1804" alt="Screenshot 2025-05-05 at 13 22 42" src="https://github.com/user-attachments/assets/cc3c214d-02ae-47bb-ac66-3535be5fa4e7" /><br>
-<h2>2. Best-selling product </h2>
-<img width="1807" alt="Screenshot 2025-05-05 at 13 21 02" src="https://github.com/user-attachments/assets/090fc931-ab95-4173-b81f-e7656926dd2a" /><br>
-<h2>3. Person and ship </h2>
-<img width="1801" alt="Screenshot 2025-05-05 at 13 21 14" src="https://github.com/user-attachments/assets/ed09f462-bc86-41b8-ab36-af1459e7232d" /><br>
+<h2>1. Business Overview </h2>
+<img width="1850" alt="Screenshot 2025-07-11 at 1 53 20 PM" src="https://github.com/user-attachments/assets/745cbac5-efc5-4d37-b5ee-db15ab606e4f" /><br>
 
-## [🔍 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
-<h3>💡 Insights </h3>
-<b>1. Company Sales Situation Over the Years</b><br>
-- YoY Growth: 52% increase in profit<br>
-- Profit trend is strongly upward, especially from Q3 2013 to Q4 2014.<br>
-<b>2. Regional Sales Situation</b><br>
-- Top Performing Region: Central - clearly leading in profit<br>
-- Other Strong Regions: North America (North, US) and EU<br>
-- Top Seller: Anna Andreadi - 37% of total sales.<br>
-<b>3. Best/Worst-Selling Product Categories</b><br>
-      + Top Category by Quantity: Office Supplies - 108,182 units sold.<br>
-      + Top Subcategories: Binders (21,429 units -> Successful: 20,007 units), Storage (16,917 units), Art (16,301 units) <br>
-- Worst Performing Sub-Category (based on return). Binders )1,422 units returned) <br>
-<b>4. Conclusion</b><br>
-- According to profit: <br>
-      + Technolodgy is the most profitable category.<br>
-      + Consumer is the most profitable segment. -> APAC is the market where we have the highest profit - 0.44M and Central EU is the Market region with the highest profit.<br>
-- According to Return of Sales (ROS)<br>
-      + Technology and Office supplies bring the highest ROS <br>
-      + As for Segment, it's the same about ROS<br>
-      + Canada is the market that brings the highest ROS<br>
-  <h3>🚀 Recommendations </h3>
-<b>1. Expansion Suggestions:</b><br>
-- Focus expansion in Central and North regions due to high profit volumes.<br>
-- APAC and Canada are highly profitable markets - worth reinforcing or expanding further.<br>
+## 🔍 Key Insights
+### 🌍 **Business Overview Dashboard**
+
+- 📍 **Strong Regional Performance:** *Central* and *South* regions drive highest total sales (**$2.8M** and **$1.6M**), signaling strong market opportunities.
+- 📅 **Most Profitable Year:** *2014* shows peak profit performance—worth investigating past strategies for replication.
+- 📦 **Low Return Rates Across Products:** Product categories maintain high satisfaction, validating current quality and service models.
+- 📈 **Sales Momentum:** *YoY Sales Growth* of **+26.3%** confirms successful business strategy and readiness for scale.
+
+<h2>2. Product & Person </h2>
+<img width="1180" height="677" alt="Screenshot 2025-07-11 at 3 07 48 PM" src="https://github.com/user-attachments/assets/8fd7110f-ea2f-4a07-aeb5-c59b361794f9" /><br>
+
+## 🔍 Key Insights
+### 🧑‍💼 **Product & Person Dashboard**
+
+- 💼 **Top Performer:** *Anna Andreadi* generated the highest revenue (**$2.82M**), outperforming all others—ideal for modeling best practices in sales training.
+- 🪑 **High-Revenue Sub-Categories:** *Phones* and *Chairs* lead in net revenue (**$1.61M** and **$1.41M**)—suggesting areas for increased marketing and procurement focus.
+- ✅ **Low Return Rate:** Only **2.29%** of total orders were returned, indicating excellent product satisfaction and fulfillment efficiency.
+- 👥 **Top Customers Identified:** Loyal buyers like *Tom Ashbrook* (40.49K orders) should be targeted with loyalty and retention strategies.
+
+## [🔍 Recommendations](#-recommendations)
+## ✅ Recommendations for Action
+
+1. 🧑‍🏫 **Leverage top sales performers** (e.g., Anna Andreadi) as internal mentors to share successful selling strategies with other team members.
+2. 🎯 **Focus marketing and inventory planning** on high-revenue sub-categories like Phones and Chairs to maximize ROI.
+3. 💳 **Develop loyalty programs** for high-frequency customers to increase retention and lifetime value.
+4. 🌐 **Invest in high-performing regions** (Central and South) with tailored marketing campaigns and logistical support for market expansion.
 
 <b>2. Product Focus:</b><br>
 - Invest in Phones and Copiers<br>
 - Maintain strong push on Office Supplies category.<br>
 - Consider reviewing and improving the quality or return policy for Binders, given the high retuen rate <br>
+
+
+
 
   
 
