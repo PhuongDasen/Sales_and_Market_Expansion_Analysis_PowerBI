@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3552fdb1-671e-4b7c-8b2d-9b2e15e3889c" width="90%">
 </p>
-<h1> 📊 Sales and Market Expansion Analysis by PowerBI</h1>
+<h1> 📊 Sales Performance & Market Expansion for a global Superstore with PowerBI/h1>
 Author: Phuong Dasen<br>
 Tool: PowerBI<br>
 
