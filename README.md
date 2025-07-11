@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3552fdb1-671e-4b7c-8b2d-9b2e15e3889c" width="90%">
 </p>
-<h1> 📊 Sales Performance & Market Expansion for a global Superstore with PowerBI/h1>
+<h1> 📊 Sales Performance & Market Expansion for a global Superstore with PowerBI/h1><br>
 Author: Phuong Dasen<br>
 Tool: PowerBI<br>
 
@@ -15,6 +15,7 @@ Tool: PowerBI<br>
 ## [📌 Background & Overview](#-background--overview)
 
 ## 🔍 What is this project about?<br>
+- Superstore is a global reteil company sepcializing in selling consumer goods across furniture, office supplies, and technology through its eCommerce Platform.<br>
 - Analyzes company-wide sales data to assess performance across products, regions, and customer segments.<br>
 - Deliver actionable insights through a Power BI dashboard for strategic decision-making and market expansion.<br>
 
