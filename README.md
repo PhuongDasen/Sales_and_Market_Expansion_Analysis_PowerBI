@@ -72,7 +72,7 @@ The dataset consists of three tables:
 
 <h2>2️⃣ Step 2 - Define Point of view </h2><br>
 
-<img width="1900" height="700" alt="Screenshot 2025-07-15 at 10 37 33 AM" src="https://github.com/user-attachments/assets/d4f2ae90-b851-4fff-91d6-286135ac97ef" /><br>
+<img width="1110" height="629" alt="Screenshot 2025-07-15 at 10 46 28 AM" src="https://github.com/user-attachments/assets/e442af23-1ae8-4093-9ac4-f328bb488135" /><br>
 
 <h2>3️⃣ Step 3 - Ideate </h2><br>
 
