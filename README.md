@@ -67,20 +67,23 @@ The dataset consists of three tables:
 ## [🧠 Design Thinking Process](#design-thinking-process)
 <h2>1️⃣ Step 1 - Empathize </h2><br>
 
-<img width="1000" alt="Screenshot 2025-05-05 at 13 03 14" src="https://github.com/user-attachments/assets/99136c62-2ea9-41ec-97e8-287d2b1cbafb" /><br>
+<img width="1900" height="700" alt="Screenshot 2025-07-15 at 10 37 13 AM" src="https://github.com/user-attachments/assets/04af0965-5da9-4b53-8470-49d500288f29" /><br>
+<img width="1900" height="700" alt="Screenshot 2025-07-15 at 10 37 33 AM" src="https://github.com/user-attachments/assets/e70b8998-dd6c-48ec-af87-dfd1bdb7f2a9" /><br>
 
 <h2>2️⃣ Step 2 - Define Point of view </h2><br>
-<img width="1000" alt="Screenshot 2025-05-05 at 13 04 50" src="https://github.com/user-attachments/assets/16d38903-b9f1-4aa9-be32-26a3f364d93b" /><br>
-<img width="1000" alt="Screenshot 2025-05-05 at 13 05 01" src="https://github.com/user-attachments/assets/52b600ee-0673-4a9f-b40f-dab14569248a" /><br>
+
+<img width="1900" height="700" alt="Screenshot 2025-07-15 at 10 37 33 AM" src="https://github.com/user-attachments/assets/d4f2ae90-b851-4fff-91d6-286135ac97ef" /><br>
 
 <h2>3️⃣ Step 3 - Ideate </h2><br>
-<img width="1000" alt="Screenshot 2025-05-05 at 13 14 52" src="https://github.com/user-attachments/assets/0791bd41-c793-48e1-85bf-294b56aaea19" /><br>
-<img width="1000" alt="Screenshot 2025-05-05 at 13 12 49" src="https://github.com/user-attachments/assets/16b99573-0804-4684-9848-39da613a4d14" /><br>
+
+<img width="1900" height="700" alt="Screenshot 2025-07-15 at 10 37 56 AM" src="https://github.com/user-attachments/assets/7f6061fc-d067-4760-b256-e32556aeaf97" /><br>
+<img width="1900" height="700" alt="Screenshot 2025-07-15 at 10 38 08 AM" src="https://github.com/user-attachments/assets/cb9cee26-1bb7-417d-a4f2-601f5f61a1d9" />
+<br>
 
 ## [📊 Key Insights & Visualizations](#-key-insights--visualizations)
 
 <h2>1. Business Overview </h2>
-<img width="1850" alt="Screenshot 2025-07-11 at 1 53 20 PM" src="https://github.com/user-attachments/assets/745cbac5-efc5-4d37-b5ee-db15ab606e4f" /><br>
+<img width="1900" alt="Screenshot 2025-07-11 at 1 53 20 PM" src="https://github.com/user-attachments/assets/745cbac5-efc5-4d37-b5ee-db15ab606e4f" /><br>
 
 ## 🔍 Key Insights
 ### 🌍 **Business Overview Dashboard**
